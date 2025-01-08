@@ -1,7 +1,7 @@
 # Showcase_My_Project
 My final year Project
-
-# Spotify Advanced SQL Project and Query Optimization P-6
+Analyzing & Solving Business Problem of Spotify
+# Spotify Advanced SQL Project and with Optimized query
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
